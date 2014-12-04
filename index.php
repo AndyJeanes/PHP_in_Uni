@@ -1,8 +1,7 @@
 <?php
 session_start();
 /**
- * Created by JetBrains PhpStorm.
- * User: mdsohelrana
+ * Created by Andy Jeanes.
  * Date: 6/10/12
  * Time: 9:21 PM
  * To change this template use File | Settings | File Templates.
